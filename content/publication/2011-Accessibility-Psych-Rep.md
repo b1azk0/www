@@ -20,7 +20,3 @@
   url_video = ""
 
   +++
-
-    **Citable as**:
-
-   Mrozinski, B., & Karylowski, J. J. (2011). Accessibility of Private and Public Aspects of Traits Descriptive of Oneself and Others. Psychological Reports, 109(3), 965–975. https://doi.org/10.2466/07.PR0.109.6.965-975

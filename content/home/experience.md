@@ -44,7 +44,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Lecturer"
   company = "movemi.pl"
-  company_url = "www.movemi.pl""
+  company_url = "www.movemi.pl"
   location = "Warsaw"
   date_start = "2017-06-01"
   date_end = ""

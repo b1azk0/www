@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Researcher and Lab Manager"
-  company = "GenCoin"
+  company = "PrejudiceLab / University of Social Sciences and Humanities"
   company_url = "www.collectivenarcissism.com"
   location = "Poznan"
   date_start = "2019-03-01"
@@ -40,5 +40,14 @@ date_format = "Jan 2006"
   date_start = "2010-01-01"
   date_end = "2019-02-28"
   description = """Taught stats and research methods in psychology"""
+  
+[[experience]]
+  title = "Lecturer"
+  company = "movemi.pl"
+  company_url = "www.movemi.pl""
+  location = "Warsaw"
+  date_start = "2017-06-01"
+  date_end = ""
+  description = """Conducting workshops on: Business data presentation, Modern data storytelling """
 
 +++

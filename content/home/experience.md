@@ -35,7 +35,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Lecturer"
   company = "University of Social Sciences and Humanities"
-  company_url = "www.swps.edu.pl  "
+  company_url = www.swps.edu.pl
   location = "Warsaw"
   date_start = "2010-01-01"
   date_end = "2019-02-28"

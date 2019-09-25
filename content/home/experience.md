@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "http://www.collectivenarcissism.com"
   location = "Poznan"
   date_start = "2019-03-01"
-  date_end = ""
+  date_end = "2019-09-20"
   description = """
   Responsibilities include:
   
@@ -33,12 +33,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Lecturer"
+  title = "Lecturer, Researcher"
   company = "University of Social Sciences and Humanities"
   company_url = "http://www.swps.edu.pl"
   location = "Warsaw"
   date_start = "2010-01-01"
-  date_end = "2019-02-28"
+  date_end = ""
   description = """Taught stats and research methods in psychology"""
   
 [[experience]]
